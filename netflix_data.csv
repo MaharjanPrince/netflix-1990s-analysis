@@ -1,0 +1,45 @@
+show_id,type,title,director,cast,country,date_added,release_year,duration,description,genre
+1,Movie,The Matrix,Wachowski,Keanu Reeves,USA,1/1/2018,1999,136,An iconic sci-fi film,Action
+2,TV Show,Friends,David Crane,Jennifer Aniston,USA,3/1/2020,1994,22,Comedy series about a group of friends,Comedy
+3,Movie,Titanic,James Cameron,Leonardo DiCaprio,USA,7/25/2015,1997,195,A tragic love story on the doomed Titanic,Romance
+4,Movie,Forrest Gump,Robert Zemeckis,Tom Hanks,USA,5/20/2017,1994,142,A man with a low IQ recounts the life events he experienced,Drama
+5,TV Show,The Fresh Prince of Bel-Air,Andy Borowitz,Will Smith,USA,9/18/2019,1990,22,A street-smart teen from West Philadelphia moves to a rich neighborhood,Comedy
+6,Movie,Jurassic Park,Steven Spielberg,Sam Neill,USA,12/11/2013,1993,127,A scientist creates a theme park with cloned dinosaurs,Adventure
+7,TV Show,The X-Files,Chris Carter,David Duchovny,USA,10/15/2018,1993,45,Two FBI agents investigate paranormal cases,Drama
+8,Movie,The Shawshank Redemption,Frank Darabont,Tim Robbins,USA,11/23/2010,1994,142,Two imprisoned men bond over several years,Drama
+9,Movie,Pulp Fiction,Quentin Tarantino,John Travolta,USA,6/5/2012,1994,154,A series of interconnected stories involving crime and redemption,Crime
+10,Movie,The Lion King,Jon Favreau,Donald Glover,USA,7/19/2019,1994,118,A lion prince flees his kingdom only to learn the true meaning of responsibility,Animation
+11,TV Show,Seinfeld,Larry David,Jason Alexander,USA,2/18/2017,1989,22,The everyday lives of four New York City friends,Comedy
+12,Movie,The Godfather,Francis Ford Coppola,Marlon Brando,USA,4/12/2013,1972,175,The story of a powerful Italian-American crime family,Crime
+13,TV Show,The Simpsons,Matt Groening,Dan Castellaneta,USA,4/15/2020,1989,22,A dysfunctional family goes through hilarious adventures,Animation
+14,Movie,Schindler's List,Steven Spielberg,Liam Neeson,USA,7/23/2014,1993,195,The true story of a businessman who saved over a thousand Jews during WWII,Drama
+15,Movie,The Terminator,James Cameron,Arnold Schwarzenegger,USA,11/17/2011,1984,107,A cyborg is sent from the future to kill a woman who will give birth to a leader,Action
+16,TV Show,Friends with Benefits,Brandon,Justin Timberlake,USA,2/19/2012,1992,21,A young couple experiments with a relationship without emotional attachment,Comedy
+17,Movie,Goodfellas,Martin Scorsese,Robert De Niro,USA,10/5/2010,1990,146,The rise and fall of a mobster,Crime
+18,TV Show,The Office,Greg Daniels,Steve Carell,USA,7/4/2018,2005,22,Mockumentary about the daily lives of office employees,Comedy
+19,Movie,The Matrix Reloaded,The Wachowskis,Keanu Reeves,USA,10/10/2003,2003,138,Neo and his allies battle the Matrix to stop the machines from taking over,Action
+20,TV Show,Frasier,Doug Tompkins,Kelsey Grammer,USA,1/29/2016,1993,22,A psychiatrist hosts a radio show and works with his family,Comedy
+21,Movie,The Big Lebowski,Joel Coen,Jeff Bridges,USA,9/16/2012,1998,117,A laid-back slacker gets caught up in a complex kidnapping case,Comedy
+22,Movie,Inception,Christopher Nolan,Leonardo DiCaprio,USA,9/1/2010,2010,148,A thief who enters the minds of others is tasked with planting an idea,Action
+23,TV Show,The Twilight Zone,Jordan Peele,Jordan Peele,USA,1/1/2020,1959,22,A series of strange and mind-bending science fiction stories,Drama
+24,Movie,Die Hard,John McTiernan,Bruce Willis,USA,12/1/2012,1988,132,A cop battles terrorists who have taken hostages in a skyscraper,Action
+25,Movie,The Silence of the Lambs,Jonathan Demme,Jodie Foster,USA,6/1/2011,1991,118,A young FBI agent seeks the help of a cannibalistic serial killer to catch another,Thriller
+26,TV Show,Fargo,Joel Coen,Steve Buscemi,USA,11/18/2017,1996,60,An anthology series inspired by the 1996 movie,Crime
+27,Movie,Braveheart,Mel Gibson,Mel Gibson,USA,4/4/2012,1995,178,The story of William Wallace and the Scottish rebellion against England,Action
+28,Movie,The Sixth Sense,M. Night Shyamalan,Haley Joel Osment,USA,7/5/2012,1999,107,A troubled young boy claims he can see dead people,Thriller
+29,Movie,The Prestige,Christopher Nolan,Hugh Jackman,USA,10/30/2015,2006,130,Two magicians become rivals and try to outdo each other's illusions,Drama
+30,Movie,The Dark Knight,Christopher Nolan,Christian Bale,USA,9/25/2017,2008,152,Batman faces off against the Joker in a battle for Gotham's soul,Action
+31,TV Show,The Crown,Peter Morgan,Claire Foy,UK,10/15/2020,2016,60,A drama about the reign of Queen Elizabeth II,Drama
+32,Movie,The Godfather Part II,Francis Ford Coppola,Al Pacino,USA,6/15/2013,1974,202,The Corleone family continues to navigate their rise and fall,Crime
+33,TV Show,Stranger Things,Matt Duffer,Winona Ryder,USA,7/15/2017,2016,50,Children uncover a dark secret about a parallel dimension,Drama
+34,TV Show,The Mandalorian,Jon Favreau,Pedro Pascal,USA,12/25/2020,2019,35,A bounty hunter goes on adventures in the Star Wars universe,Action
+35,Movie,The Shining,Stanley Kubrick,Jack Nicholson,USA,9/20/2013,1980,146,A man becomes a winter caretaker at an isolated hotel and starts to lose his sanity,Horror
+36,Movie,The Truman Show,Peter Weir,Jim Carrey,USA,9/10/2011,1998,103,A man’s life is secretly filmed for a popular TV show,Drama
+37,Movie,Gladiator,Ridley Scott,Russell Crowe,USA,5/30/2015,2000,155,A betrayed general seeks revenge against the corrupt emperor,Action
+38,TV Show,Black Mirror,Charlie Brooker,Jon Hamm,UK,2/1/2020,2011,60,An anthology series exploring modern society’s relationship with technology,Sci-Fi
+39,Movie,The Social Network,David Fincher,Andrew Garfield,USA,11/15/2014,2010,120,The story of Mark Zuckerberg’s rise to creating Facebook,Drama
+40,Movie,12 Angry Men,Sidney Lumet,Henry Fonda,USA,2/17/2014,1957,96,12 jurors deliberate over the fate of a young man accused of murder,Drama
+41,Movie,Back to the Future,Robert Zemeckis,Michael J. Fox,USA,9/9/2012,1985,116,A teenager travels back in time in a DeLorean and alters history,Sci-Fi
+42,TV Show,Chernobyl,Craig Mazin,Jared Harris,UK,7/25/2020,2019,60,A dramatization of the nuclear disaster in Soviet Russia,Drama
+43,Movie,The Matrix Revolutions,Wachowski,Keanu Reeves,USA,11/5/2003,2003,129,Neo prepares for the final battle against the machines,Action
+54,Movie,Fight Club,David Fincher,Brad Pitt,USA,1/22/2013,1999,139,A man forms an underground fight club to cope with his dissatisfaction,Drama
